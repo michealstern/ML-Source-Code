@@ -1,0 +1,10 @@
+print("\n")
+print("             **********Calculator**********")
+print("\n")
+x = input("Enter First Number : ")
+y = input("Enter Second Number : ")
+
+print("The value of",x,"+",y,"Is :",int(x) + int(y))
+print("The value of",x,"-",y,"Is :",int(x) - int(y))
+print("The value of",x,"*",y,"Is :",int(x) * int(y))
+print("The value of",x,"/",y,"Is :",float(x) / float(y))
