@@ -1,0 +1,611 @@
+Ranking,District,State,Population,Growth,Sex-Ratio,Literacy
+1,Thane,Maharashtra,,36.01%,886,84.53
+2,North Twenty Four Parganas,West Bengal,"10,009,781",12.04%,955,84.06
+3,,Karnataka,"9,621,551",47.18%,916,
+4,Pune,Maharashtra,"9,429,408",30.37%,915,86.15
+5,Mumbai Suburban,Maharashtra,"9,356,962",8.29%,860,89.91
+6,South Twenty Four Parganas,West Bengal,"8,161,961",18.17%,956,77.51
+7,Barddhaman,West Bengal,"7,717,563",11.92%,945,76.21
+8,Ahmadabad,Gujarat,"7,214,225",24.03%,904,85.31
+9,Murshidabad,West Bengal,"7,103,807",21.09%,958,66.59
+10,Jaipur,Rajasthan,"6,626,178",26.19%,910,
+11,Nashik,Maharashtra,"6,107,187",22.30%,934,
+12,Surat,Gujarat,"6,081,322",42.24%,787,
+13,Allahabad,Uttar Pradesh,"5,954,391",20.63%,901,72.32
+14,Paschim Medinipur,West Bengal,"5,913,457",13.86%,966,78
+15,Patna,Bihar,"5,838,465",23.73%,897,70.68
+16,Hugli,West Bengal,"5,519,145",9.46%,961,81.8
+17,Rangareddy,Andhra Pradesh,"5,296,741",48.16%,961,75.87
+18,Nadia,West Bengal,"5,167,600",12.22%,947,74.97
+19,East Godavari,,"5,154,296",,1006,70.99
+20,Purbi Champaran,Bihar,"5,099,371",29.43%,902,55.79
+21,Purba Medinipur,West Bengal,"5,095,875",15.36%,938,87.02
+22,Guntur,Andhra Pradesh,"4,887,813",9.47%,1003,67.4
+23,Haora,West Bengal,"4,850,029",13.50%,939,83.31
+24,Muzaffarpur,Bihar,"4,801,062",,900,63.43
+25,Belgaum,Karnataka,"4,779,661",13.41%,973,73.48
+26,Moradabad,Uttar Pradesh,"4,772,006",25.22%,906,56.77
+27,Ghaziabad,,"4,681,645",42.27%,881,78.07
+28,Nagpur,Maharashtra,"4,653,570",14.40%,951,88.39
+29,Chennai,Tamil Nadu,"4,646,732",6.98%,989,90.18
+30,Azamgarh,Uttar Pradesh,"4,613,913",17.11%,1019,70.93
+31,Lucknow,Uttar Pradesh,"4,589,838",25.82%,917,77.29
+32,Kanpur Nagar,Uttar Pradesh,"4,581,268",9.92%,862,79.65
+33,Ahmadnagar,Maharashtra,"4,543,159",12.44%,939,79.05
+34,Krishna,Andhra Pradesh,"4,517,398",7.87%,992,73.74
+35,Kolkata,West Bengal,"4,496,694",-1.67%,908,86.31
+36,Jaunpur,Uttar Pradesh,"4,494,204",14.89%,1024,71.55
+37,Madhubani,Bihar,"4,487,379",25.51%,926,58.62
+38,Sitapur,Uttar Pradesh,"4,483,992",23.88%,888,61.12
+39,Bareilly,Uttar Pradesh,"4,448,359",22.93%,887,58.49
+40,Gorakhpur,Uttar Pradesh,"4,440,895",,950,70.83
+41,Agra,,,22.05%,868,71.58
+42,Gaya,Bihar,"4,391,418",26.43%,937,63.67
+43,Solapur,Maharashtra,"4,317,756",12.16%,938,77.02
+44,Visakhapatnam,Andhra Pradesh,"4,290,589",11.96%,1006,66.91
+45,Samastipur,Bihar,"4,261,566",25.53%,911,61.86
+46,Jalgaon,Maharashtra,"4,229,917",14.86%,925,78.2
+47,Chittoor,,"4,174,064",11.43%,997,71.53
+48,Vadodara,Gujarat,"4,165,626",14.38%,934,78.92
+49,Muzaffarnagar,Uttar Pradesh,"4,143,512",16.94%,889,69.12
+50,Malappuram,Kerala,"4,112,920",13.45%,1098,93.57
+51,Hardoi,Uttar Pradesh,"4,092,845",20.44%,868,64.57
+52,,Andhra Pradesh,"4,081,148",12.10%,977,63.57
+53,Raipur,Chhattisgarh,,,984,75.56
+54,Kurnool,Andhra Pradesh,"4,053,463",14.85%,988,59.97
+55,Mahbubnagar,Andhra Pradesh,"4,053,028",15.34%,977,55.04
+56,Kheri,Uttar Pradesh,"4,021,243",25.38%,894,60.56
+57,Kancheepuram,Tamil Nadu,"3,998,252",38.95%,986,84.49
+58,Maldah,West Bengal,"3,988,845",21.22%,944,61.73
+59,Saran,Bihar,"3,951,862",21.64%,954,65.96
+60,Hyderabad,Andhra Pradesh,"3,943,323",2.97%,954,83.25
+61,,Bihar,"3,937,385",19.47%,911,56.56
+62,West Godavari,Andhra Pradesh,"3,936,966",3.51%,1004,74.63
+63,Vellore,Tamil Nadu,"3,936,331",,1007,79.17
+64,Pashchim Champaran,Bihar,"3,935,042",29.29%,909,55.7
+65,Kolhapur,Maharashtra,"3,876,001",10.01%,957,81.51
+66,Jalpaiguri,West Bengal,"3,872,846",13.87%,953,73.25
+67,Rajkot,Gujarat,"3,804,558",20.02%,927,80.96
+68,Sultanpur,Uttar Pradesh,"3,797,117",18.11%,983,69.27
+69,Karimnagar,Andhra Pradesh,"3,776,269",8.15%,1008,
+70,Thiruvallur,Tamil Nadu,"3,728,104",35.33%,987,84.03
+71,Aurangabad,Maharashtra,"3,701,282",27.76%,923,
+72,Jodhpur,Rajasthan,"3,687,165",27.74%,916,65.94
+73,Bijnor,Uttar Pradesh,,17.60%,917,68.48
+74,Budaun,Uttar Pradesh,"3,681,896",19.95%,,51.29
+75,Varanasi,Uttar Pradesh,,17.15%,913,75.6
+76,,,"3,674,179",22.78%,895,
+77,Aligarh,Uttar Pradesh,"3,673,889",22.78%,882,67.52
+78,,Delhi,"3,656,539",,865,
+79,Ghazipur,Uttar Pradesh,"3,620,268",19.18%,952,71.78
+80,Bankura,West Bengal,"3,596,674",12.65%,957,70.26
+81,Kushinagar,,"3,564,544",23.20%,961,65.25
+82,Ganjam,Orissa,"3,529,031",11.66%,,71.09
+83,Warangal,Andhra Pradesh,"3,512,576",8.21%,997,65.11
+84,Birbhum,West Bengal,"3,502,404",16.15%,956,70.68
+85,,Uttar Pradesh,"3,499,171",20.12%,896,68.88
+86,Ludhiana,Punjab,"3,498,739",15.36%,873,82.2
+87,Vaishali,Bihar,"3,495,021",,895,66.6
+88,Nalgonda,,,7.41%,983,64.2
+89,Bahraich,Uttar Pradesh,"3,487,731",46.48%,892,49.36
+90,Salem,Tamil Nadu,"3,482,056",15.44%,,72.86
+91,Saharanpur,Uttar Pradesh,"3,466,382",19.66%,890,70.49
+92,Viluppuram,Tamil Nadu,"3,458,873",16.84%,987,71.88
+93,Coimbatore,Tamil Nadu,"3,458,045",18.56%,1000,83.98
+94,Meerut,Uttar Pradesh,"3,443,689",14.89%,886,72.84
+95,Gonda,Uttar Pradesh,"3,433,919",24.17%,921,58.71
+96,Sitamarhi,Bihar,"3,423,574",27.62%,899,52.05
+97,Rae Bareli,Uttar Pradesh,"3,405,559",18.56%,943,67.25
+98,Prakasam,Andhra Pradesh,"3,397,448",11.05%,981,63.08
+99,Nanded,Maharashtra,"3,361,292",16.86%,943,75.45
+100,Durg,Chhattisgarh,"3,343,872",18.98%,988,79.06
+101,Siwan,Bihar,"3,330,464",22.70%,988,69.45
+102,Nagaur,Rajasthan,"3,307,743",19.20%,950,62.8
+103,Thiruvananthapuram,Kerala,"3,301,427",2.07%,1087,93.02
+104,Ernakulam,Kerala,"3,282,388",5.69%,1027,95.89
+105,Indore,Madhya Pradesh,"3,276,697",32.88%,928,80.87
+106,Purnia,Bihar,"3,264,619",28.33%,921,51.08
+107,Barabanki,Uttar Pradesh,"3,260,699",21.96%,910,61.75
+108,Ballia,Uttar Pradesh,"3,239,774",17.31%,937,70.94
+109,Pratapgarh,Uttar Pradesh,"3,209,141",17.50%,998,70.09
+110,Thrissur,Kerala,"3,121,200",4.94%,1108,95.08
+111,Banaskantha,Gujarat,"3,120,506",24.61%,938,65.32
+112,Unnao,Uttar Pradesh,"3,108,367",15.11%,907,66.37
+113,Deoria,Uttar Pradesh,"3,100,946",14.31%,1017,71.13
+114,Kozhikode,,"3,086,293",7.20%,1098,95.08
+115,Mumbai City,Maharashtra,"3,085,411",-7.57%,832,89.21
+116,Tirunelveli,Tamil Nadu,"3,077,233",12.97%,1023,82.5
+117,Katihar,,"3,071,029",28.35%,919,52.24
+118,Udaipur,,"3,068,420",23.69%,958,61.82
+119,Madurai,,"3,038,252",17.84%,990,83.45
+120,Bhagalpur,Bihar,"3,037,766",25.36%,880,63.14
+151,Sikar,Rajasthan,"2,677,333",17.03%,947,71.91
+152,Bilaspur,Chhattisgarh,"2,663,629",33.29%,971,70.78
+153,,Kerala,"2,635,375",1.94%,1113,94.09
+154,,Maharashtra,"2,634,200",19.31%,959,83.14
+155,,Uttar Pradesh,"2,632,733",14.05%,901,67.43
+156,,Orissa,,,940,
+157,Cuddalore,Tamil Nadu,"2,605,914",14.02%,987,78.04
+158,Barmer,Rajasthan,"2,603,751",32.52%,902,
+159,Buldana,Maharashtra,"2,586,258",15.85%,934,83.4
+160,Bid,Maharashtra,"2,585,049",19.61%,916,76.99
+161,Ajmer,Rajasthan,"2,583,052",18.40%,951,69.33
+162,Gulbarga,Karnataka,"2,566,326",18.01%,971,64.85
+163,Gopalganj,Bihar,"2,562,012",19.02%,1021,65.47
+164,Siddharth Nagar,Uttar Pradesh,,25.45%,976,59.25
+165,Nizamabad,Andhra Pradesh,"2,551,335",,1040,61.25
+166,Bharatpur,Rajasthan,"2,548,462",21.29%,880,70.11
+167,,Uttar Pradesh,"2,547,184",22.78%,863,70.36
+168,West Delhi,Delhi,"2,543,243",19.46%,,86.98
+169,Aurangabad,Bihar,,26.18%,926,70.32
+170,Kannur,Kerala,"2,523,003",4.73%,1136,95.1
+171,Mayurbhanj,Orissa,"2,519,738",13.33%,1006,
+172,Firozabad,Uttar Pradesh,"2,498,156",21.69%,875,71.92
+173,Mirzapur,Uttar Pradesh,"2,496,970",18.00%,903,68.48
+174,Amritsar,Punjab,,15.47%,889,76.27
+175,Tiruppur,Tamil Nadu,"2,479,052",29.11%,989,78.68
+176,Faizabad,Uttar Pradesh,"2,470,996",18.29%,962,68.73
+177,Tiruvannamalai,Tamil Nadu,"2,464,875",12.75%,994,74.21
+178,Basti,Uttar Pradesh,"2,464,464",18.21%,963,67.22
+179,Jabalpur,Madhya Pradesh,"2,463,289",14.51%,929,81.07
+180,Latur,Maharashtra,,17.97%,928,77.26
+181,Bellary,Karnataka,,20.99%,983,67.43
+182,Giridih,Jharkhand,,28.41%,944,63.14
+183,Sabarkantha,Gujarat,,16.62%,952,75.79
+184,,Rajasthan,"2,408,523",19.60%,973,61.37
+185,,Tamil Nadu,"2,405,890",8.56%,1035,82.64
+186,,Uttar Pradesh,"2,397,888",18.30%,978,72.23
+187,,Gujarat,"2,390,776",18.05%,949,70.99
+188,,,"2,378,458",17.63%,893,76.46
+189,,,"2,371,061",28.62%,918,80.37
+190,Rewa,,"2,365,106",19.86%,931,71.62
+191,Bikaner,,"2,363,937",41.19%,905,65.13
+192,Surguja,,"2,359,886",19.66%,978,60.01
+193,Vizianagaram,Andhra Pradesh,"2,344,474",4.23%,1019,58.89
+194,Rampur,Uttar Pradesh,"2,335,819",21.42%,909,53.34
+195,Baleshwar,Orissa,"2,320,529",14.62%,957,79.79
+196,Kheda,Gujarat,"2,299,885",13.62%,940,82.65
+197,Gurdaspur,Punjab,"2,298,323",9.26%,895,79.95
+198,Purbi Singhbhum,Jharkhand,"2,293,919",15.68%,949,75.49
+199,South West Delhi,Delhi,"2,292,958",30.65%,840,88.28
+200,Erode,Tamil Nadu,"2,251,744",11.66%,993,72.58
+201,Khordha,Orissa,"2,251,673",19.94%,929,86.88
+202,North East Delhi,Delhi,"2,241,624",26.78%,886,83.09
+203,Supaul,Bihar,"2,229,076",28.66%,929,57.67
+204,Satna,Madhya Pradesh,"2,228,935",19.19%,926,72.26
+205,Nawada,Bihar,"2,219,146",,939,59.76
+206,Mau,Uttar Pradesh,"2,205,968",,979,
+207,Chandrapur,Maharashtra,"2,204,307",,961,
+208,Jalandhar,Punjab,"2,193,590",,915,
+209,Dhar,Madhya Pradesh,"2,185,793",25.60%,964,
+210,Bijapur,Karnataka,"2,177,331",20.50%,960,67.15
+211,Jamnagar,Gujarat,"2,160,119",13.44%,939,73.65
+212,Dindigul,Tamil Nadu,"2,159,775",12.31%,998,76.26
+213,Balrampur,Uttar Pradesh,"2,148,665",27.72%,928,49.51
+214,Jhunjhunun,Rajasthan,"2,137,045",11.67%,950,74.13
+215,Alappuzha,Kerala,"2,127,789",0.88%,1100,95.72
+216,Dohad,Gujarat,"2,127,086",29.98%,990,58.82
+217,Sundargarh,Orissa,"2,093,437",14.35%,973,73.34
+218,Anand,Gujarat,"2,092,745",12.70%,925,84.37
+219,Kachchh,Gujarat,"2,092,371",32.16%,908,70.59
+220,Chhindwara,Madhya Pradesh,"2,090,922",13.07%,964,71.16
+221,Dakshina Kannada,Karnataka,"2,089,649",10.11%,1020,88.57
+222,Bokaro,Jharkhand,"2,062,330",16.01%,922,72.01
+223,Dhule,Maharashtra,"2,050,862",20.08%,946,72.8
+224,Churu,Rajasthan,"2,039,547",6.01%,940,66.75
+225,Pali,Rajasthan,"2,037,573",11.94%,987,62.39
+226,Mahesana,,"2,035,064",10.73%,926,83.61
+227,Banka,,"2,034,763",26.48%,907,58.17
+228,Gwalior,,"2,032,036",24.50%,864,76.65
+229,Pilibhit,Uttar Pradesh,"2,031,007",23.45%,895,61.47
+230,Firozpur,Punjab,"2,029,074",16.21%,893,68.92
+231,Madhepura,Bihar,"2,001,762",31.12%,911,52.25
+232,Jhansi,Uttar Pradesh,"1,998,603",14.54%,890,75.05
+233,Ujjain,Madhya Pradesh,"1,986,864",16.12%,955,72.34
+234,Kottayam,Kerala,"1,974,551",1.07%,1039,97.21
+235,Ganganagar,Rajasthan,"1,969,168",10.04%,887,69.64
+236,Morena,Madhya Pradesh,"1,965,970",23.44%,840,71.03
+237,Jalna,Maharashtra,"1,959,046",21.46%,937,
+238,Chandauli,Uttar Pradesh,"1,952,756",18.83%,918,
+239,Kota,Rajasthan,"1,951,014",24.39%,911,
+240,Dhubri,Assam,"1,949,258",,953,58.34
+241,Davanagere,Karnataka,"1,945,497",,972,75.74
+242,Virudhunagar,Tamil Nadu,"1,942,288",,1007,80.15
+243,Palamu,Jharkhand,"1,939,869",26.17%,928,63.63
+244,Raichur,Karnataka,"1,928,812",15.51%,1000,59.56
+245,Sonitpur,Assam,"1,924,110",15.55%,956,67.34
+246,Saharsa,Bihar,"1,900,661",26.02%,906,53.2
+247,Patiala,Punjab,"1,895,686",19.62%,891,75.28
+248,Haridwar,Uttarakhand,"1,890,422",30.63%,880,73.43
+249,Bagalkot,Karnataka,"1,889,752",14.40%,989,68.82
+250,Farrukhabad,Uttar Pradesh,"1,885,204",20.05%,874,69.04
+251,Krishnagiri,Tamil Nadu,"1,879,809",20.41%,958,71.46
+252,West Nimar,Madhya Pradesh,"1,873,046",22.85%,965,62.7
+253,Kanniyakumari,Tamil Nadu,"1,870,374",11.60%,1019,91.75
+254,Mainpuri,Uttar Pradesh,"1,868,529",17.02%,881,75.99
+255,Sonbhadra,Uttar Pradesh,"1,862,559",27.27%,918,64.03
+256,Dharwad,Karnataka,"1,847,023",15.13%,971,80
+257,Darjiling,West Bengal,"1,846,823",14.77%,970,79.56
+258,Jyotiba Phule Nagar,Uttar Pradesh,"1,840,221",22.76%,910,63.84
+259,Parbhani,Maharashtra,"1,836,086",20.19%,947,73.34
+260,Jalor,Rajasthan,"1,828,730",26.21%,952,54.86
+261,Jajapur,Orissa,"1,827,192",12.49%,973,80.13
+262,Akola,Maharashtra,"1,813,906",11.27%,946,88.05
+263,Faridabad,Haryana,"1,809,733",32.54%,873,81.7
+264,Mandya,Karnataka,"1,805,769",2.38%,995,70.4
+265,Kendujhar,Orissa,"1,801,733",15.35%,988,68.24
+266,Banda,Uttar Pradesh,"1,799,410",17.05%,863,66.67
+267,Banswara,Rajasthan,"1,797,485",26.53%,980,56.33
+268,Ramabai Nagar,Uttar Pradesh,"1,796,184",14.89%,865,75.78
+269,Hassan,Karnataka,"1,776,421",3.18%,1010,76.07
+270,Hanumangarh,Rajasthan,"1,774,692",16.91%,906,67.13
+271,Etah,Uttar Pradesh,"1,774,480",13.62%,873,70.81
+272,Chhattarpur,Madhya Pradesh,"1,762,375",19.51%,883,63.74
+273,Jamui,Bihar,"1,760,405",25.85%,922,59.79
+274,Surendranagar,Gujarat,"1,756,268",15.91%,930,72.13
+275,Shimoga,Karnataka,"1,752,753",6.71%,998,80.45
+276,Thoothukkudi,Tamil Nadu,"1,750,176",11.32%,1023,86.16
+277,Hisar,Haryana,,13.45%,872,72.89
+278,Cachar,Assam,"1,736,617",20.19%,959,79.34
+279,Hazaribagh,Jharkhand,"1,734,495",20.65%,947,69.75
+280,Namakkal,Tamil Nadu,"1,726,601",15.61%,986,74.63
+281,Shivpuri,Madhya Pradesh,"1,726,050",22.76%,877,62.55
+282,West Tripura,Tripura,"1,725,739",12.57%,962,88.69
+283,Sant Kabir Nagar,Uttar Pradesh,"1,715,183",20.77%,972,66.72
+284,East Delhi,Delhi,"1,709,346",16.79%,884,89.31
+285,Buxar,Bihar,"1,706,352",21.67%,922,70.14
+286,Valsad,Gujarat,"1,705,678",20.92%,922,78.55
+287,Bidar,Karnataka,"1,703,300",13.37%,956,70.51
+288,Bhind,Madhya Pradesh,"1,703,005",19.21%,837,75.26
+289,Balaghat,Madhya Pradesh,"1,701,698",13.60%,1021,77.09
+290,Puri,Orissa,"1,698,730",13.05%,963,84.67
+291,Dehradun,Uttarakhand,"1,696,694",32.33%,902,84.25
+292,Barpeta,Assam,"1,693,622",21.43%,953,63.81
+293,Kishanganj,Bihar,"1,690,400",30.40%,950,55.46
+294,Jalaun,Uttar Pradesh,"1,689,974",16.19%,865,73.75
+295,Dakshin Dinajpur,West Bengal,"1,676,276",11.52%,956,72.82
+296,Khagaria,Bihar,"1,666,886",30.19%,886,57.92
+297,Chitradurga,Karnataka,"1,659,456",9.33%,974,73.71
+298,Osmanabad,Maharashtra,"1,657,576",11.50%,924,78.44
+299,Kannauj,Uttar Pradesh,"1,656,616",19.27%,879,72.7
+300,Sangrur,Punjab,"1,655,169",12.35%,885,67.99
+301,Balangir,Orissa,"1,648,997",23.32%,987,64.72
+302,Udham Singh Nagar,Uttarakhand,"1,648,902",33.45%,920,73.1
+303,Nandurbar,Maharashtra,"1,648,295",25.66%,978,64.38
+304,Gautam Buddha Nagar,Uttar Pradesh,"1,648,115",37.11%,851,80.12
+305,Bhiwani,Haryana,"1,634,445",14.70%,886,75.21
+306,Dausa,Rajasthan,"1,634,409",24.09%,905,68.16
+307,Kaimur,Bihar,"1,626,384",26.17%,920,69.34
+308,Janjgir Champa,Chhattisgarh,"1,619,707",22.94%,986,73.07
+309,Pudukkottai,Tamil Nadu,"1,618,345",10.88%,1015,77.19
+310,Nagapattinam,Tamil Nadu,"1,616,450",8.57%,1025,83.59
+311,Ratnagiri,Maharashtra,"1,615,069",-4.82%,1122,82.18
+312,Kaushambi,Uttar Pradesh,"1,599,596",23.70%,908,61.28
+313,Haveri,Karnataka,"1,597,668",11.02%,950,77.4
+314,Hoshiarpur,Punjab,"1,586,625",7.11%,961,84.59
+315,Etawah,Uttar Pradesh,"1,581,810",18.15%,870,78.41
+316,Sant Ravidas Nagar,Uttar Pradesh,"1,578,213",16.58%,955,68.97
+317,Kalahandi,Orissa,"1,576,869",18.07%,1003,59.22
+318,Betul,Madhya Pradesh,"1,575,362",12.92%,971,68.9
+319,Mahamaya Nagar,Uttar Pradesh,"1,564,708",17.12%,871,71.59
+320,Dewas,Madhya Pradesh,"1,563,715",19.53%,942,69.35
+321,Bharuch,Gujarat,"1,551,019",13.16%,925,81.51
+322,Rajgarh,Madhya Pradesh,"1,545,814",23.26%,956,61.21
+323,Chittaurgarh,Rajasthan,"1,544,338",16.08%,972,61.71
+324,Rajnandgaon,Chhattisgarh,"1,537,133",19.79%,1015,75.96
+325,Kolar,Karnataka,"1,536,401",10.77%,979,74.39
+326,Jammu,Jammu and Kashmir,"1,529,958",12.74%,880,83.45
+327,Kamrup,Assam,"1,517,542",15.69%,949,75.55
+328,Gurgaon,Haryana,"1,514,432",73.96%,854,84.7
+329,Amreli,Gujarat,"1,514,190",8.63%,964,74.25
+330,Shajapur,Madhya Pradesh,"1,512,681",17.20%,938,69.09
+331,Kangra,Himachal Pradesh,"1,510,075",12.77%,1012,85.67
+332,Dharmapuri,Tamil Nadu,"1,506,843",16.34%,946,68.54
+333,Bhadrak,Orissa,"1,506,337",12.94%,981,82.78
+334,Karnal,Haryana,"1,505,324",18.14%,887,74.73
+335,Pashchimi Singhbhum,Jharkhand,"1,502,338",21.75%,1005,58.63
+336,Raigarh,Chhattisgarh,"1,493,984",18.05%,991,73.26
+337,Deoghar,Jharkhand,"1,492,073",28.03%,925,64.85
+338,Bargarh,Orissa,"1,481,255",10.02%,977,74.62
+339,Vidisha,Madhya Pradesh,"1,458,875",20.09%,896,70.53
+340,Karauli,Rajasthan,"1,458,248",20.55%,861,66.22
+341,Ratlam,Madhya Pradesh,"1,455,069",19.72%,971,66.78
+342,Sonipat,Haryana,"1,450,001",13.35%,856,79.12
+343,Tikamgarh,Madhya Pradesh,"1,445,166",20.13%,901,61.43
+344,Kendrapara,Orissa,"1,440,361",10.63%,1007,85.15
+345,Uttara Kannada,Karnataka,"1,437,169",6.17%,979,84.06
+346,Kanshiram Nagar,Uttar Pradesh,"1,436,719",16.93%,880,61.02
+347,Tonk,Rajasthan,"1,421,326",17.30%,952,61.58
+348,Bastar,Chhattisgarh,"1,413,199",17.96%,1023,54.4
+349,Jhalawar,Rajasthan,"1,411,129",19.55%,946,61.5
+350,Gandhinagar,Gujarat,"1,391,753",4.29%,923,84.16
+351,Koppal,Karnataka,"1,389,920",16.21%,986,68.09
+352,Dungarpur,Rajasthan,"1,388,552",25.36%,994,59.46
+353,Bathinda,Punjab,"1,388,525",17.34%,868,68.28
+354,Barwani,Madhya Pradesh,"1,385,881",27.57%,982,49.08
+355,Koraput,Orissa,"1,379,647",16.86%,1032,49.21
+356,Auraiya,Uttar Pradesh,"1,379,545",16.91%,864,78.95
+357,Seoni,Madhya Pradesh,"1,379,131",18.22%,982,72.12
+358,Munger,Bihar,"1,367,765",20.21%,876,70.46
+359,Ramanathapuram,Tamil Nadu,"1,353,445",13.96%,983,80.72
+360,Patan,Gujarat,"1,343,734",13.61%,935,72.3
+361,Mandsaur,Madhya Pradesh,"1,340,411",13.24%,963,71.78
+362,Sivaganga,Tamil Nadu,"1,339,101",15.90%,1003,79.85
+363,Sawai Madhopur,Rajasthan,"1,335,551",19.56%,897,65.39
+364,Jind,Haryana,"1,334,152",12.13%,871,71.44
+365,Raisen,Madhya Pradesh,"1,331,597",18.35%,901,72.98
+366,Navsari,Gujarat,"1,329,672",8.15%,961,83.88
+367,Tinsukia,Assam,"1,327,929",15.47%,952,69.66
+368,Dibrugarh,Assam,"1,326,335",11.92%,961,76.05
+369,Garhwa,Jharkhand,"1,322,784",27.75%,935,60.33
+370,Gondiya,Maharashtra,"1,322,507",10.14%,999,84.95
+371,Dumka,Jharkhand,"1,321,442",19.42%,977,61.02
+372,Godda,Jharkhand,"1,313,551",25.35%,938,56.4
+373,Sehore,Madhya Pradesh,"1,311,332",21.54%,918,70.06
+374,East Nimar,Madhya Pradesh,"1,310,061",21.50%,943,66.39
+375,Kasaragod,Kerala,"1,307,375",8.58%,1080,90.09
+376,Baghpat,Uttar Pradesh,"1,303,048",11.95%,861,72.01
+377,Wardha,Maharashtra,"1,300,774",5.18%,946,86.99
+378,Sirsa,Haryana,"1,295,189",15.99%,897,68.82
+379,Katni,Madhya Pradesh,"1,292,042",21.41%,952,71.98
+380,Anugul,Orissa,"1,273,821",11.74%,943,77.53
+381,Thiruvarur,Tamil Nadu,"1,264,277",8.11%,1017,82.86
+382,Damoh,Madhya Pradesh,"1,264,219",16.63%,910,69.73
+383,Chikkaballapura,Karnataka,"1,255,104",9.23%,972,69.76
+384,Kamrup Metropolitan,Assam,"1,253,938",18.34%,936,88.71
+385,Theni,Tamil Nadu,"1,245,899",13.89%,991,77.26
+386,Guna,Madhya Pradesh,"1,241,519",26.97%,912,63.23
+387,Hoshangabad,Madhya Pradesh,"1,241,350",14.49%,914,75.29
+388,Srinagar,Jammu and Kashmir,"1,236,829",20.35%,900,69.41
+389,Karimganj,Assam,"1,228,686",21.90%,963,78.22
+390,Baran,Rajasthan,"1,222,755",19.68%,929,66.66
+391,Lalitpur,Uttar Pradesh,"1,221,592",24.94%,906,63.52
+392,Nabarangapur,Orissa,"1,220,946",19.03%,1019,46.43
+393,Yamunanagar,Haryana,"1,214,205",16.57%,877,77.99
+394,Korba,Chhattisgarh,"1,206,640",19.25%,969,72.37
+395,Dhaulpur,Rajasthan,"1,206,516",22.71%,846,69.08
+396,Panipat,Haryana,"1,205,437",24.60%,864,75.94
+397,Bhandara,Maharashtra,"1,200,334",5.65%,982,83.76
+398,Pathanamthitta,Kerala,"1,197,412",-2.97%,1132,96.55
+399,Washim,Maharashtra,"1,197,160",17.34%,930,83.25
+400,Dhenkanal,Orissa,"1,192,811",11.80%,947,78.76
+401,Singrauli,Madhya Pradesh,"1,178,273",28.05%,920,60.41
+402,Udupi,Karnataka,"1,177,361",5.85%,1094,86.24
+403,Hingoli,Maharashtra,"1,177,345",19.27%,942,78.17
+404,Yadgir,Karnataka,"1,174,271",22.81%,989,51.83
+405,Rajsamand,Rajasthan,"1,156,597",17.18%,990,63.14
+406,Sivasagar,Assam,"1,151,050",9.44%,954,80.41
+407,Sahibganj,Jharkhand,"1,150,567",24.01%,952,52.04
+408,Chikmagalur,Karnataka,"1,137,961",-0.26%,1008,79.25
+409,Jagatsinghapur,Orissa,"1,136,971",7.50%,968,86.59
+410,Ambala,Haryana,"1,128,350",11.23%,885,81.75
+411,Sidhi,Madhya Pradesh,"1,127,033",23.72%,957,64.43
+412,Jehanabad,Bihar,"1,125,313",21.68%,922,66.8
+413,Tarn Taran,Punjab,"1,119,627",19.23%,900,67.81
+414,Shrawasti,Uttar Pradesh,"1,117,361",-5.02%,881,46.74
+415,Bundi,Rajasthan,"1,110,906",15.40%,925,61.52
+416,Idukki,Kerala,"1,108,974",-1.79%,1006,91.99
+417,Hamirpur,Uttar Pradesh,"1,104,285",5.80%,861,68.77
+418,Jorhat,Assam,"1,092,256",9.31%,962,82.15
+419,Narsimhapur,Madhya Pradesh,"1,091,854",14.01%,920,75.69
+420,Mewat,Haryana,"1,089,263",37.93%,907,54.08
+421,Ramanagara,Karnataka,"1,082,636",5.05%,976,69.22
+422,Anantnag,Jammu and Kashmir,"1,078,692",38.58%,927,62.69
+423,Kaithal,Haryana,"1,074,304",13.55%,881,69.15
+424,Gadchiroli,Maharashtra,"1,072,942",10.58%,982,74.36
+425,Golaghat,Assam,"1,066,888",12.75%,964,77.43
+426,Shahdol,Madhya Pradesh,"1,066,063",17.39%,974,66.67
+427,Saraikela Kharsawan,Jharkhand,"1,065,056",25.47%,956,67.7
+428,Gadag,Karnataka,"1,064,570",9.54%,982,75.12
+429,Karur,Tamil Nadu,"1,064,493",13.77%,1015,75.6
+430,Rohtak,Haryana,"1,061,204",12.88%,867,80.22
+431,Chandigarh,Chandigarh,"1,055,450",17.19%,818,86.05
+432,Mandla,Madhya Pradesh,"1,054,905",17.97%,1008,66.87
+433,Chatra,Jharkhand,"1,042,886",31.77%,953,60.18
+434,Palwal,Haryana,"1,042,708",25.76%,880,69.32
+435,Lakhimpur,Assam,"1,042,137",17.22%,968,77.2
+436,Sambalpur,Orissa,"1,041,099",11.27%,976,76.22
+437,Sirohi,Rajasthan,"1,036,346",21.76%,940,55.25
+438,Mahasamund,Chhattisgarh,"1,032,754",20.05%,1017,71.02
+439,Gumla,Jharkhand,"1,025,213",23.16%,993,65.73
+440,Jhabua,Madhya Pradesh,"1,025,048",30.70%,990,43.3
+441,Chamarajanagar,Karnataka,"1,020,791",5.73%,993,61.43
+442,Panna,Madhya Pradesh,"1,016,520",18.67%,905,64.79
+443,Goalpara,Assam,"1,008,183",22.64%,964,67.37
+444,Baramula,Jammu and Kashmir,"1,008,039",19.45%,885,64.63
+445,Lakhisarai,Bihar,"1,000,912",24.77%,902,62.42
+446,Mandi,Himachal Pradesh,"999,777",10.92%,1007,81.53
+447,Moga,Punjab,"995,746",11.28%,893,70.68
+448,Mohali,Punjab,"994,628",33.15%,879,83.8
+449,Chitrakoot,Uttar Pradesh,"991,730",29.43%,879,65.05
+450,Bangalore Rural,Karnataka,"990,923",16.45%,946,77.93
+451,Rayagada,Orissa,"967,911",16.46%,1051,49.76
+452,Kurukshetra,Haryana,"964,655",16.86%,888,76.31
+453,Nayagarh,Orissa,"962,789",11.37%,915,80.42
+454,Jhajjar,Haryana,"958,405",8.90%,862,80.65
+455,Morigaon,Assam,"957,423",23.34%,967,68.03
+456,Karbi Anglong,Assam,"956,313",17.58%,951,69.25
+457,Nainital,Uttarakhand,"954,605",25.13%,934,83.88
+458,Puducherry,Puducherry,"950,289",29.23%,1029,85.44
+459,Baksa,Assam,"950,075",10.74%,974,69.25
+460,Ramgarh,Jharkhand,"949,443",13.10%,921,73.17
+461,Fatehabad,Haryana,"942,011",16.85%,902,67.92
+462,Darrang,Assam,"928,500",22.19%,954,63.08
+463,Mahendragarh,Haryana,"922,088",13.48%,895,77.72
+464,Muktsar,Punjab,"901,896",16.00%,896,65.81
+465,Pakur,Jharkhand,"900,422",28.33%,989,48.82
+466,Rewari,Haryana,"900,332",17.64%,898,80.99
+467,North Delhi,Delhi,"887,978",13.62%,869,86.85
+468,Kokrajhar,Assam,"887,142",5.21%,959,65.22
+469,South Tripura,Tripura,"876,001",14.15%,957,84.66
+470,Mahoba,Uttar Pradesh,"875,958",23.64%,878,65.27
+471,Kupwara,Jammu and Kashmir,"870,354",33.82%,835,64.51
+472,Pratapgarh,Rajasthan,"867,848",22.78%,983,55.97
+473,Jashpur,Chhattisgarh,"851,669",14.60%,1005,67.92
+474,Sindhudurg,Maharashtra,"849,651",-2.21%,1036,85.56
+475,Ashoknagar,Madhya Pradesh,"845,071",22.66%,904,
+476,Udalguri,Assam,"831,668",9.61%,973,
+477,Neemuch,Madhya Pradesh,,13.77%,954,70.8
+478,,Meghalaya,"825,922",24.96%,1011,84.15
+479,,Chhattisgarh,"822,526",40.71%,996,60.85
+480,North Goa,Goa,"818,008",7.84%,963,89.57
+481,Wayanad,Kerala,"817,420",4.71%,1035,89.03
+482,Kapurthala,Punjab,"815,168",8.04%,912,79.07
+483,Shimla,Himachal Pradesh,"814,010",12.67%,,83.64
+484,Tapi,Gujarat,"807,022",12.14%,,68.26
+485,Dhamtari,Chhattisgarh,"799,781",13.19%,,78.36
+486,Jamtara,Jharkhand,"791,042",21.12%,954,64.59
+487,Datia,Madhya Pradesh,"786,754",18.46%,873,72.63
+488,Nalbari,Assam,"771,639",11.99%,949,78.63
+489,Mansa,Punjab,,11.76%,883,61.83
+490,Burhanpur,Madhya Pradesh,,19.37%,951,64.36
+491,Ariyalur,Tamil Nadu,"754,894",8.54%,1015,71.34
+492,Badgam,Jammu and Kashmir,"753,745",24.14%,894,56.08
+493,Anuppur,Madhya Pradesh,"749,237",12.30%,976,67.88
+494,Kanker,Chhattisgarh,"748,941",15.06%,1006,70.29
+495,Bongaigaon,Assam,"738,804",20.59%,966,69.74
+496,The Nilgiris,Tamil Nadu,"735,394",-3.51%,1042,85.2
+497,Kandhamal,Orissa,"733,110",13.10%,1037,64.13
+498,Alirajpur,Madhya Pradesh,"728,999",19.45%,1011,36.1
+499,Latehar,Jharkhand,"726,978",29.61%,967,59.51
+500,Kodarma,Jharkhand,"716,259",43.42%,950,66.84
+501,Dindori,Madhya Pradesh,"704,524",21.32%,1002,63.9
+502,Arwal,Bihar,"700,843",18.89%,928,67.43
+503,North Tripura,Tripura,"693,947",17.44%,967,87.5
+504,Sheopur,Madhya Pradesh,"687,861",22.94%,901,57.43
+505,Pauri Garhwal,Uttarakhand,"687,271",-1.41%,1103,82.02
+506,Dhemaji,Assam,"686,133",19.97%,953,72.7
+507,Rupnagar,Punjab,"684,627",8.87%,915,82.19
+508,,Rajasthan,"669,919",31.81%,852,57.22
+509,,Assam,"659,296",21.45%,951,74.33
+510,,Chhattisgarh,"658,917",12.38%,968,70.64
+511,,Bihar,"656,246",27.19%,893,53.78
+512,Umaria,Madhya Pradesh,"644,758",24.96%,950,65.89
+513,West Garo Hills,Meghalaya,"643,291",24.09%,984,67.58
+514,Rajouri,Jammu and Kashmir,"642,415",32.93%,860,68.17
+515,South Goa,Goa,"640,537",8.73%,986,87.59
+516,Sheikhpura,Bihar,"636,342",21.09%,930,63.86
+517,Almora,Uttarakhand,"622,506",-1.28%,1139,80.47
+518,Tehri Garhwal,Uttarakhand,"618,931",2.35%,1077,76.36
+519,Faridkot,Punjab,"617,508",12.09%,890,69.55
+520,Kathua,Jammu and Kashmir,,20.53%,890,73.09
+521,Malkangiri,Orissa,,21.62%,1020,48.54
+522,Shahid Bhagat Singh Nagar,Punjab,,,954,79.78
+523,Nuapada,Orissa,"610,382",,1021,57.35
+524,Subarnapur,Orissa,"610,183",,960,74.42
+525,Fatehgarh Sahib,Punjab,"600,163",11.46%,871,79.35
+526,Simdega,Jharkhand,"599,578",16.58%,997,
+527,Barnala,Punjab,"595,527",13.02%,876,
+528,Narmada,Gujarat,"590,297",14.75%,961,
+529,Porbandar,Gujarat,"585,449",9.06%,950,75.78
+530,Central Delhi,Delhi,"582,320",-9.91%,892,85.14
+531,Solan,Himachal Pradesh,"580,320",15.93%,880,83.68
+532,Jharsuguda,Orissa,"579,505",13.69%,953,78.86
+533,Gajapati,Orissa,"577,817",11.37%,1043,53.49
+534,Harda,Madhya Pradesh,"570,465",20.25%,935,72.5
+535,Perambalur,Tamil Nadu,"565,223",14.50%,1003,74.32
+536,Panchkula,Haryana,"561,293",19.83%,873,81.88
+537,Pulwama,Jammu and Kashmir,"560,440",27.00%,912,63.48
+538,Udhampur,Jammu and Kashmir,"554,985",20.78%,870,68.49
+539,Kodagu,Karnataka,"554,519",1.09%,1019,82.61
+540,Dantewada,Chhattisgarh,"533,638",12.08%,1020,42.12
+541,Khunti,Jharkhand,"531,885",22.32%,997,63.86
+542,Sirmaur,,"529,855",15.54%,918,78.8
+543,Una,,"521,173",16.26%,976,86.53
+544,Chamba,,"519,080",12.63%,986,72.17
+545,Imphal West,Manipur,"517,992",16.56%,1031,86.08
+546,Pithoragarh,Uttarakhand,"483,439",4.58%,1020,82.25
+547,Chirang,Assam,"482,162",11.34%,969,63.55
+548,Senapati,Manipur,"479,148",68.94%,937,63.6
+549,Punch,Jammu and Kashmir,"476,835",27.97%,893,66.74
+550,Lohardaga,Jharkhand,"461,790",26.68%,985,67.61
+551,Imphal East,Manipur,"456,113",15.51%,1017,81.95
+552,Hamirpur,Himachal Pradesh,"454,768",10.19%,1095,88.15
+553,Baudh,Orissa,"441,162",18.16%,991,71.61
+554,Kullu,Himachal Pradesh,"437,903",14.76%,942,79.4
+555,Kulgam,Jammu and Kashmir,"424,483",7.73%,951,59.23
+556,Thoubal,Manipur,"422,168",15.94%,1002,74.47
+557,Doda,Jammu and Kashmir,"409,936",28.00%,919,64.68
+558,Aizawl,Mizoram,"400,309",22.92%,1009,97.89
+559,Jaintia Hills,Meghalaya,"395,124",32.10%,,61.64
+560,Bandipora,Jammu and Kashmir,"392,232",28.65%,,56.28
+561,Chamoli,Uttarakhand,"391,605",5.74%,,82.65
+562,West Khasi Hills,Meghalaya,"383,461",29.53%,980,77.87
+563,Bilaspur,Himachal Pradesh,"381,956",12.05%,981,84.59
+564,Dimapur,Nagaland,"378,811",127.29%,919,84.79
+565,Dhalai,Tripura,"378,230",22.85%,944,85.72
+566,Dadra and Nagar Haveli,Dadra and Nagar Haveli,"343,709",55.88%,774,76.24
+567,Uttarkashi,Uttarakhand,"330,086",11.89%,958,75.81
+568,Samba,Jammu and Kashmir,"318,898",17.01%,886,81.41
+569,East Garo Hills,Meghalaya,"317,917",26.87%,972,73.95
+570,Reasi,Jammu and Kashmir,"314,667",27.04%,890,58.15
+571,Debagarh,Orissa,"312,520",14.01%,975,72.57
+572,Ganderbal,Jammu and Kashmir,"297,446",36.50%,874,58.04
+573,Ramban,Jammu and Kashmir,"283,713",31.99%,902,54.27
+574,East Sikkim,Sikkim,"283,583",15.73%,873,83.85
+575,Churachandpur,Manipur,"274,143",20.29%,975,82.78
+576,Kohima,Nagaland,"267,988",131.81%,928,85.23
+577,Shupiyan,Jammu and Kashmir,"266,215",25.97%,951,60.76
+578,Bageshwar,Uttarakhand,"259,898",4.18%,1090,80.01
+579,Champawat,Uttarakhand,"259,648",15.63%,980,79.83
+580,Ri Bhoi,Meghalaya,"258,840",34.26%,953,75.67
+581,Bijapur,Chhattisgarh,"255,230",8.78%,984,40.86
+582,Mon,Nagaland,"250,260",80.36%,899,56.99
+583,Rudraprayag,Uttarakhand,"242,285",6.53%,1114,81.3
+584,South Andaman,Andaman and Nicobar Islands,"238,142",14.23%,871,89.13
+585,Bishnupur,Manipur,"237,399",13.93%,999,75.85
+586,Kishtwar,Jammu and Kashmir,"230,696",20.88%,920,56.2
+587,The Dangs,Gujarat,"228,291",22.26%,1006,75.16
+588,Dima Hasao,Assam,"214,102",13.84%,932,77.54
+589,Karaikal,Puducherry,"200,222",17.23%,1047,87.05
+590,Tuensang,Nagaland,"196,596",94.83%,929,73.08
+591,Mokokchung,Nagaland,"194,622",60.94%,925,91.62
+592,Daman,Daman and Diu,"191,173",67.71%,534,88.07
+593,Ukhrul,Manipur,"183,998",30.70%,943,81.35
+594,Papumpare,Arunachal Pradesh,"176,573",,980,79.95
+595,Wokha,Nagaland,"166,343",,968,87.69
+596,Phek,Nagaland,"163,418",111.84%,951,78.05
+597,Lunglei,Mizoram,"161,428",17.64%,947,88.86
+598,Changlang,Arunachal Pradesh,"148,226",18.18%,926,59.8
+599,South Sikkim,Sikkim,"146,850",11.65%,915,81.42
+600,Lohit,Arunachal Pradesh,"145,726",16.59%,912,68.18
+601,Chandel,Manipur,"144,182",21.85%,933,71.11
+602,South Garo Hills,Meghalaya,"142,334",40.95%,945,71.72
+603,New Delhi,Delhi,"142,004",-20.72%,822,88.34
+604,Kargil,Jammu and Kashmir,"140,802",18.02%,810,71.34
+605,Zunheboto,Nagaland,"140,757",78.05%,976,85.26
+606,Tamenglong,Manipur,"140,651",26.15%,943,70.05
+607,Narayanpur,Chhattisgarh,"139,820",19.16%,994,48.62
+608,West Sikkim,Sikkim,"136,435",10.69%,942,77.39
+609,Leh,,"133,487",13.87%,690,77.2
+610,Champhai,,"125,745",16.01%,984,95.91
+611,Lawngtlai,Mizoram,"117,894",60.14%,945,65.88
+612,West Siang,Arunachal Pradesh,"112,274",8.04%,930,66.46
+613,Tirap,Arunachal Pradesh,"111,975",11.61%,944,52.19
+614,North and Middle Andaman,Andaman and Nicobar Islands,"105,597",-0.02%,925,83.91
+615,East Siang,Arunachal Pradesh,"99,214",13.52%,980,72.54
+616,Peren,Nagaland,"95,219",104.15%,915,77.95
+617,Kurung Kumey,Arunachal Pradesh,"92,076",116.56%,1032,48.75
+618,Mamit,Mizoram,"86,364",37.56%,927,84.93
+619,Kinnaur,Himachal Pradesh,"84,121",7.39%,819,80
+620,Kolasib,Mizoram,"83,955",27.28%,956,93.5
+621,West Kameng,Arunachal Pradesh,"83,947",12.53%,819,67.07
+622,Upper Subansiri,Arunachal Pradesh,"83,448",50.78%,998,63.8
+623,Lower Subansiri,Arunachal Pradesh,"83,030",49.00%,984,74.35
+624,East Kameng,Arunachal Pradesh,"78,690",37.62%,1029,60.02
+625,Kiphire,Nagaland,"74,004",38.58%,956,69.54
+626,Serchhip,Mizoram,"64,937",20.56%,977,97.91
+627,Lakshadweep,Lakshadweep,"64,473",6.30%,946,91.85
+628,Saiha,Mizoram,"56,574",-7.34%,979,90.01
+629,Yanam,Puducherry,"55,626",77.19%,1038,79.47
+630,Lower Dibang Valley,Arunachal Pradesh,"54,080",7.20%,928,69.13
+631,Diu,Daman and Diu,"52,074",17.77%,1031,83.46
+632,Longleng,Nagaland,"50,484",-21.57%,905,72.17
+633,Tawang,Arunachal Pradesh,"49,977",28.40%,714,59
+634,North Sikkim,Sikkim,"43,709",6.53%,767,78.01
+635,Mahe,Puducherry,"41,816",13.54%,1184,97.87
+636,Nicobars,Andaman and Nicobar Islands,"36,842",-12.42%,777,78.06
+637,,Arunachal Pradesh,"35,320",5.87%,889,59.99
+638,,Himachal Pradesh,"31,564",,903,76.81
+639,,Arunachal Pradesh,"21,167",,839,56.46
+640,,Arunachal Pradesh,"8,004",,813,64.1
